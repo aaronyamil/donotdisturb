@@ -1,0 +1,19 @@
+{
+  "turnon" : {
+    "value": 3,
+  },
+  "schedule" : {
+    "value": 1,
+    "from": 1,
+    "to": 0,
+  },
+  "days": {
+    "s": true,
+    "m": false,
+    "t": true,
+    "w": false,
+    "th": false,
+    "f": true,
+    "sa": false
+  }
+}
