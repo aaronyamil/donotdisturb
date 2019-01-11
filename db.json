@@ -1,4 +1,5 @@
 {
+  "donotdisturb": {
   "turnon" : 3,
   "schedule" : {
     "value": 1,
@@ -13,5 +14,6 @@
     "th": false,
     "f": true,
     "sa": false
+  }
   }
 }
