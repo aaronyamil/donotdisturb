@@ -1,10 +1,10 @@
 {
   "donotdisturb": {
-  "turnon" : 3,
-  "schedule" : {
+  "turnon": 3,
+  "schedule": {
     "value": 1,
-    "from": 1,
-    "to": 0
+    "from": 0,
+    "to": 1
   },
   "days": {
     "s": true,
